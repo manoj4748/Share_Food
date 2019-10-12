@@ -1,3 +1,3 @@
 # Share_Food 
-Home_Page
+Home Page
 ![Home_Page](home_page.PNG)
